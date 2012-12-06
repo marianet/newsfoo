@@ -1,0 +1,4 @@
+newsfoo
+=======
+
+Testing newsfoo net
